@@ -24,3 +24,16 @@
 -utilisateur est bien ajouter par admin :
 
 <img width="913" alt="image" src="https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/8c459b07-6538-45a1-8e9b-3fc8427cdca3">
+
+## Sécurité avec Spring security  :
+
+-Login Page : 
+
+<img width="922" alt="image" src="https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/0cd7d675-617f-4ffd-9c00-44fc1b8dfdd2">
+
+-si un user pas un Admin essaie de supprimer ou modifier  un patient ou bien faire des actions d'admin  :
+
+<img width="921" alt="image" src="https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/93e58df6-0b00-41ed-bc6f-1a6ac19d5dcc">
+
+
+
