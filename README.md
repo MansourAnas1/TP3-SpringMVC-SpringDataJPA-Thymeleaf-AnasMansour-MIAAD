@@ -7,9 +7,13 @@
 ## L'application doit permettre les fonctionnalités suivantes :
 • Afficher les patients
 • Faire la pagination
-• Chercher les patients
+
 
 <img width="911" alt="image" src="https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/ce1c0f3b-ef99-4dcf-80aa-8cdec172aff3">
+
+• Chercher les patients :
+<img width="909" alt="image" src="https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/62ad324c-1e07-4c2f-be98-9e7baed1bae9">
+
 
 
 # Supprimer ou modifier un  patient pour selument si utilisateur est un Admin  :
