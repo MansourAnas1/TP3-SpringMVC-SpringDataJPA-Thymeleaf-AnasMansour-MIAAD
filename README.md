@@ -81,15 +81,16 @@
 # Table app User Role :
 ![Table app_user_roles](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/b6a9c813-90b7-4767-bc7a-7de6acc1343b)
 
+# Tester sur user 1 :
+![tester sur user 1](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/0c33216e-708c-469c-a92e-aee7c685c4ed)
+
+
 # Ajouter le role Admin a user 1 :
 ![ajouter le role admin a user1](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/8dbb120e-5f4f-45cf-9d64-20c65b4d0807)
 
 # le role est bien ajoute :
 ![le rolle est bien ajouter](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/1be42122-6a24-4f06-9bcc-b20e65770566)
 
-
-# Tester sur user 1 :
-![tester sur user 1](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/0c33216e-708c-469c-a92e-aee7c685c4ed)
 
 
 
