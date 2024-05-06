@@ -39,20 +39,20 @@
 
 <img width="921" alt="image" src="https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/93e58df6-0b00-41ed-bc6f-1a6ac19d5dcc">
 
-##JDBC Authentication  :
-#Application properties :
+## JDBC Authentication  :
+# Application properties :
 ![application properties](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/bf359c99-b70c-4741-add7-3c67657ca5b9)
 
-#command Line Runner :
+# command Line Runner :
 ![commandLineRunner](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/73102ff4-b31d-41a4-8019-c5d50012e6e1)
 
-#schema SQL :
+# schema SQL :
 ![schema sql](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/9b7644e6-0267-415b-839c-39f83e142eb2)
 
-#Table authorities :
+# Table authorities :
 ![Table authorities](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/27206894-443a-4ac1-aac0-087f02b0f95c)
 
-#Table User :
+# Table User :
 ![Table User](https://github.com/MansourAnas1/TP3-SpringMVC-SpringDataJPA-Thymeleaf-AnasMansour-MIAAD/assets/167020036/5cafd628-500f-43fb-8b35-4983b98c0204)
 
 ## Le Test :
